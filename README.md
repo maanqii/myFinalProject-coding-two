@@ -9,10 +9,15 @@ The user can switch between the different models to display them. The applicatio
 Here are the main features and functions of the application.
 
 Use loadModel() to load the 3D model.
+
 Use setPosition() and setScale() to set the position and scale of the 3D model.
+
 Use playAllAnimations() and setPausedForAllAnimations() to play and pause all animations.
+
 Use the keyPressed() function to switch between 3D models.
+
 Use the noise function to modify OF's mesh to create a liquid-like effect.
+
 Use ofDrawBitmapString() to display text commands.
 
 ![1](https://user-images.githubusercontent.com/119876408/225938216-83c80943-32dd-49b6-b24e-6aaa8a182596.png)
